@@ -1,5 +1,5 @@
 C:\WINDOWS\system32>python
-...
+>>> import tensorflow as tf
 >>> a=tf.placeholder(tf.float32)
 >>> b=tf.placeholder(tf.float32)
 >>> c=a+b
