@@ -8,6 +8,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> b=tf.constant(2)
 >>> c=a+b
 >>> sess=tf.Session()
-2019-02-13 12:01:46.357452: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
 >>> print(sess.run(c))
-5
+
+Output- 5
